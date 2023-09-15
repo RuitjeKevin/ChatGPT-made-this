@@ -1,2 +1,2 @@
-# ChatGPT-made-this
+# Chatgptmadethis.github.io
 gaming
